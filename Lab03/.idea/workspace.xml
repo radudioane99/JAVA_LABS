@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ba490b-e99a-4abf-ac16-6ba8d427f733" name="Default Changelist" comment="LAB03 Integral">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex01/Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex01/TestRobot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex02/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex02/TestCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex03/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex03/TestAuthor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex04/MyPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex04/TestMyPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab03/Lab03_ex05/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex01/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex01/TestRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex02/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex02/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex03/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex03/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex04/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex04/TestMyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab03_ex05/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/dioane.radu.lab2.ex01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/dioane.radu.lab2.ex01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/Ex03v2/Ex03v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/Ex03v2/Ex03v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex01/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex01/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex02/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex02/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex04/Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex04/Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex05/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex05/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex06/Ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex06/Ex06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex07/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dioane.radu.lab2.ex01/src/dioane/radu/lab2/ex07/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/Hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/Hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/src/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZKBLHGKTc0w6fXYn7PoRL0AiWn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Flower">
+    <configuration name="Flower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03_ex05.Flower" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab03_ex05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03_ex03.TestAuthor" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab03_ex03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03_ex02.TestCircle" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab03_ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03_ex04.TestMyPoint" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab03_ex04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab03_ex01.TestRobot" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab03_ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Flower" />
+        <item itemvalue="Application.TestRobot" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.TestAuthor" />
+        <item itemvalue="Application.TestMyPoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ba490b-e99a-4abf-ac16-6ba8d427f733" name="Default Changelist" comment="" />
+      <created>1584577847385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584577847385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LAB03 Integral" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB03 Integral" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="83" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584615193249">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="367" y="83" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.730@0.23.1280.730" timestamp="1584615193249" />
+    <state x="266" y="23" width="748" height="729" key="CommitChangelistDialog2" timestamp="1584618619220">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="266" y="23" width="748" height="729" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1584618619220" />
+    <state width="1218" height="168" key="GridCell.Tab.0.bottom" timestamp="1584618583602">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="168" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1584618583602" />
+    <state width="1218" height="168" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1584578234208" />
+    <state width="1218" height="168" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1584615040789" />
+    <state width="1218" height="168" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1584579883200" />
+    <state width="1218" height="168" key="GridCell.Tab.0.center" timestamp="1584618583597">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="168" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1584618583597" />
+    <state width="1218" height="168" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1584578234206" />
+    <state width="1218" height="168" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1584615040787" />
+    <state width="1218" height="168" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1584579883199" />
+    <state width="1218" height="168" key="GridCell.Tab.0.left" timestamp="1584618583596">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="168" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1584618583596" />
+    <state width="1218" height="168" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1584578234206" />
+    <state width="1218" height="168" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1584615040787" />
+    <state width="1218" height="168" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1584579883198" />
+    <state width="1218" height="168" key="GridCell.Tab.0.right" timestamp="1584618583599">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="168" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1584618583599" />
+    <state width="1218" height="168" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1584578234207" />
+    <state width="1218" height="168" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1584615040789" />
+    <state width="1218" height="168" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1584579883199" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab03_ex01/Robot.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
