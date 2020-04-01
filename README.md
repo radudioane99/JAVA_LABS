@@ -1,29 +1,6 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Small programs created by me for university in which I learned and test:
+-> OOP principles (inheritance, polymorphism, aggregation, composition, implementing and creating interfaces, abstract classes, static vs nonstatic methods, constructors)
+-> Exceptions handling
+-> Working with input/output streams (binary/text files, input/output binary or text streams)
+-> Serialization,Deserialization mechanisms (ObjectInputStream/ObjectOutputStream)
+-> Java collections (ArrayList, TreeSet, HashMaps)
